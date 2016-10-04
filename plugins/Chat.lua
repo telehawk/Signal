@@ -14,11 +14,11 @@ end
 if msg.text == "salam" then
   return "Salaam"
 end
-if msg.text == "Grandex" then
-  return "Jonam?"
+if msg.text == "Soroush" then
+  return "با صاحبم چیکار داری؟"
 end
-if msg.text == "grandex" then
-  return "Jooon?"
+if msg.text == "soroush" then
+  return "چیکارداری باهاش؟"
 end
 if msg.text == "GRANDEX" then
   return "What?"
